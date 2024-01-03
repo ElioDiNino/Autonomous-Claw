@@ -15,9 +15,9 @@ Please refer to the [`LICENSE`](LICENSE) if you are using any of my code for you
 Our group made two claws to use in the competiton. The first, namde Huggey Jr., was a combination of early prototypes and it performed quite well. For this reason, our second claw was just a refined version, named Huggey Sr., that was built using more precise measurements and a longer sonar arm so that there would be less interference. Here are some photos of the claws side by side:
 
 <p align="center">
-  <img alt="Huggeys Standing" src="https://github.com/ElioDiNino/Autonomous-Claw/blob/master/Photos%20%26%20Videos/huggeys_standing.jpg" width="47%">
+  <img alt="Huggeys Standing" src="https://github.com/ElioDiNino/Autonomous-Claw/blob/main/Photos%20%26%20Videos/huggeys_standing.jpg" width="47%">
 &nbsp; &nbsp; &nbsp;
-  <img alt="Huggeys" src="https://github.com/ElioDiNino/Autonomous-Claw/blob/master/Photos%20%26%20Videos/huggeys.jpg" width="47%">
+  <img alt="Huggeys" src="https://github.com/ElioDiNino/Autonomous-Claw/blob/main/Photos%20%26%20Videos/huggeys.jpg" width="47%">
 </p>
 
 
